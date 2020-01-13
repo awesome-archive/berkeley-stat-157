@@ -4,7 +4,6 @@
 
 ## Content
 
-* [Network in Network](http://en.diveintodeeplearning.org/chapter_convolutional-neural-networks/nin.html)
-* [Network with Parallel Concatenations](http://en.diveintodeeplearning.org/chapter_convolutional-neural-networks/googlenet.html)
+* [Network in Network](https://d2l.ai/chapter_convolutional-modern/nin.html)
 
 ## Videos

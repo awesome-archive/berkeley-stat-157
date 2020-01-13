@@ -1,4 +1,4 @@
-# Project
+# Projects
 
 The project is really the centerpiece of this class. It is your opportunity to try out and see how to do research. We imposed *a lot of constraints*. They are due to the fact that we've seen many teams in the past delay things until the last minute and then run out of time. The constraints are there to nudge you (rather strongly) to get things done in time and to have a great project.
 
@@ -16,12 +16,11 @@ The project is really the centerpiece of this class. It is your opportunity to t
 * Project presentations are due on **May 7 and 9, 2019**. We picked
   two days to ensure that there's enough time for everyone to present
   their stuff.
-* The written project report counts **30%** and it needs to have at
+* The written project report counts **40%** and it needs to have at
   least 6 pages using the same [style file](media/latex.zip). The
   upper page limit is 20, including appendix, details, etc.; This is
   to protect the TAs from going crazy with reviewing and grading.
-* The presentation counts **30%** of the project. You need to have at
-  least 6 slides and no more than 20 slides in your presentation.
+* The presentation counts **20%** of the project. You need to have 6 slides in your presentation.
 
 This is a *teamwork* effort and *you must form a team*. The project
 contributes the lion's share to your grades. We will take the number
@@ -37,4 +36,30 @@ end. It should describe your work in a reproducible manner, i.e. in
 enough detail that someone competent could take the report and
 regenerate the results (after some work but no guesswork) reliably.
 
+## List of Projects
 
+
+```eval_rst
+
+.. toctree::
+   :maxdepth: 1
+
+   projects/1
+   projects/2
+   projects/3
+   projects/4
+   projects/5
+   projects/7
+   projects/8
+   projects/9
+   projects/10
+   projects/11
+   projects/12
+   projects/14
+   projects/15
+   projects/16
+   projects/17
+   projects/18
+   projects/19
+   projects/20
+```

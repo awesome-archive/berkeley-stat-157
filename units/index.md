@@ -4,7 +4,7 @@
 
 .. toctree::
    :maxdepth: 1
-   
+
    introduction
    probability
    arrays
@@ -17,17 +17,16 @@
    layers
    convnet
    lenet
-   nin
    resnet
-   makingitwork
+   parallel
+   finetuning
+   detection
    sequence
    rnn
-   bptt
    blstm
+   word2vec
+   seq2seq
+   attention
    optimization
-   sgd
    adam
-   parallel
-   imagenet
 ```
-
